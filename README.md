@@ -8,6 +8,7 @@ Experience and accreditation include *but aren't limited to* the following syste
 - Synapsys Solutions
 - BACnet
 - HTML & CSS
+- SemVer & VCS
 - Javascript & JSON
 - SQL & NoSQL
 - XML
