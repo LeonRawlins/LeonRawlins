@@ -14,7 +14,7 @@ Experience and accreditation include *but aren't limited to* the following syste
 
 Recent working knowledge circles modern web dev technologies, BIM, blockchain and the emerging "smart buildings industry" which incorporates: **semantic tagging**, **telemetry** (analytics/synthetics) and **cloud native computing** solutions.
 
-I am particularly interested in how **immersive media** and **real-time location servcies** can be deployed within the built environment to enhance the occupant experience.
+I am particularly interested in how **immersive media** and **real-time location services** can be deployed within the built environment to enhance the occupant experience.
 
 ---
 
