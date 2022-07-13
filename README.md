@@ -19,7 +19,7 @@ I am particularly interested in how **immersive media** and **real-time location
 
 ---
 
-#AEC #AI #AmbientComputing #BIM #ComputerVision #DigitalTwins #Geospatial #Industry40 #IoT #K8s #Metaverse #ML #Photogrammetry #RealityCapture #RTLS #SecDevOps #SmartBuildings #SpatialComputing #XR
+#AEC #AI #AmbientComputing #BIM #ComputerVision #DigitalTwins #Geospatial #Industry40 #IoT #K8s #Metaverse #ML #Photogrammetry #RealityCapture #RT3D #RTLS #SecDevOps #SmartBuildings #SpatialComputing #XR
 
 <!---
 LeonRawlins/LeonRawlins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
