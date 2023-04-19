@@ -2,8 +2,8 @@ I have **15 years professional experience** in building automation. I have speci
 
 Experience and accreditation include *but aren't limited to* the following systems, protocols and languages.
 
-- Trend IQVision, IQSET, 963 & 945
 - Niagara Framework N4 & AX
+- Trend IQVision, IQSET, 963 & 945
 - Siemens Desigo CC
 - Synapsys Solutions
 - BACnet
