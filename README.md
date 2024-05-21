@@ -1,4 +1,4 @@
-I have **16 years professional experience** in building automation. I have specialised in the **design**, **development** and **integration** of elegant, informative and responsive front-end's for both public and private sector BAS/BMS.
+I have **17 years professional experience** in building automation. I have specialised in the **design**, **development** and **integration** of elegant, informative and responsive front-end's for both public and private sector BAS/BMS.
 
 Experience and accreditation include *but aren't limited to* the following systems, protocols and languages.
 
